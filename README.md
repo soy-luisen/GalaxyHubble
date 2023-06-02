@@ -12,21 +12,28 @@ reconstruction of them, eliminating the effect of the Point Spread Function, as 
 deconvolution algorithm. The tests carried out provide data with which it can be stated that the U-Net network 
 model is the one that offers the best results in this context.
 
-###CONTENTS
+### CONTENTS
 This is the code developed for the master's thesis of artificial intelligence.
 
 **main**
-|--arquitecturas.py Code of definition of neural network architectures.
-|--dataset.py Code for dataset management
-|--ejecucion.py Code for training, statistics and visualization tasks
-|--paper-deep-learning-as-an-alternative-to-the-deconvolution-of-images-of-galaxies-captured-with-the-hubble-space-telescope.pdf 
+
+*arquitecturas.py* Code of definition of neural network architectures.
+
+*dataset.py* Code for dataset management
+
+*ejecucion.py* Code for training, statistics and visualization tasks
+
+*paper-deep-learning-as-an-alternative-to-the-deconvolution-of-images-of-galaxies-captured-with-the-hubble-space-telescope.pdf* 
 Scientific article describing the work done
 
 **dataset** 
+
 Folder with dataset files. They can be donwloaded from https://1drv.ms/f/s!Aj2cPpzQoR9fkOgfgkVYXQq2Qw828w?e=2XRlPF
 
 **pretrained_models** 
+
 Folder with pretraining models files. Others can be donwloaded from https://1drv.ms/f/s!Aj2cPpzQoR9fkOgfgkVYXQq2Qw828w?e=2XRlPF
 
 **results** 
+
 Some examples of results.
