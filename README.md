@@ -37,3 +37,8 @@ Folder with pretraining models files. Others can be donwloaded from https://1drv
 **results** 
 
 Some examples of results.
+
+### APA
+
+Ramírez Peláez, L.E. (2023) *Deep Learning as an alternative to the deconvolution of images of galaxies captured with the Hubble Space Telescope*. [TFM]. Universidad Internacional de la Rioja
+
