@@ -4,10 +4,15 @@ Deep Learning as an alternative to deconvolution of galaxy images captured with 
 This is the code developed for the master's thesis of artificial intelligence.
 
 CONTENTS
+ 
  main
+ 
   |--arquitecturas.py     Code of definition of neural network architectures.
+  
   |--dataset.py           Code for dataset management
+  
   |--ejecucion.py         Code for training, statistics and visualization tasks
+  
   |--paper-deep-learning-as-an-alternative-to-the-deconvolution-of-images-of-galaxies-captured-with-the-hubble-space-telescope.pdf 
        Scientific article describing the work done
       
