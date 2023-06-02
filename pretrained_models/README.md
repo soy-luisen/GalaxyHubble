@@ -1,0 +1,1 @@
+Another pretrained models files can be download from https://1drv.ms/f/s!Aj2cPpzQoR9fkOgfgkVYXQq2Qw828w?e=2XRlPF![image](https://github.com/soy-luisen/GalaxyHubble/assets/122776850/4c67d5a7-07ff-4da6-82c1-41e639514f6a)
